@@ -7,3 +7,5 @@ seo:
 
 ---
 test
+
+![](/images/favicon.svg)
